@@ -8,7 +8,7 @@
 ```Este Bot esta en desarrollo y listo para instalar en Termux, Replit, Boxmine y heroku```
 
 <p align="center">
-<a href="https://github.com/Jesus-ofc33"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Si+tienes+dudas+o+Necesitas+ayuda+con+la+instalacion+contactame" height="40px"
+<a href="https://github.com/Jesus-ofc33"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Si+Tienes+Dudas+sobre+el+Bot+Contactatame" height="40px"
 </p>
 
 <a href="wa.me/584166718372" target="blank"><img src="https://img.shields.io/badge/🍁Jesus-ofc🍁-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
