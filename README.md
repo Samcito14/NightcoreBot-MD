@@ -5,6 +5,8 @@
 <a href="#"><img title="NightcoreBot" src="https://img.shields.io/badge/🍁Gracias por visitar el reposito oficial de Nightcore Bot🍁-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <a href="#"><img title="NightcoreBit" src="https://img.shields.io/badge/Compatible con la versión multi dispositivos de WhatsApp-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
+```Este Bot esta en desarrollo y listo para instalar en Termux, Replit, Boxmine y heroku```
+
 <p align="center">
 <a href="https://github.com/Jesus-ofc33"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=ABF7BB&center=verdadero&vCenter=verdadero&lines=Si+tienes+dudas+o+Necesitas+ayuda+con+la+instalacion+contactame" height="40px"
 </p>
@@ -25,7 +27,7 @@
 
 
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/Jesus-ofc33/NightcoreBot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/Shadow-Bot-MD/blob/main/configuracion.js)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Jesus-ofc33/NightcoreBot-MD/blob/main/configuracion.js)
 
 ### <img src="https://github.com/Jesus-ofc33/NightcoreBot-MD/blob/main/galeria/unnamed.png" height="30px"> 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -48,7 +50,7 @@
 ### `🍁️ ACTIVAR EN CASO DE APAGARSE EN TERMUX 🍁`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Shadow-Bot-MD
+> cd NightcoreBot-MD
 > npm start
 ```
 ### `PARA DETENER`
@@ -56,7 +58,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A NightcoreBot-TERMUX $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd NighgcoreBot-MD
+> cd NightcoreBot-MD
 > rm -rf ShadowSession
 > npm start
 ```
